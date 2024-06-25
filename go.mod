@@ -1,4 +1,4 @@
-module memory-allocation
+module github.com/pkeorley/alloc
 
 go 1.21
 
